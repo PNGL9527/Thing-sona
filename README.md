@@ -55,8 +55,9 @@ The Color format is RGB/8, and the Color configuration document is SRGB IEC61966
 
 The size of the file is A4.
 
-The font used in the ready-to-go PDF for the English version is IBM Plex Sans, and you can access to this open-source font via: https://fonts.google.com/specimen/IBM+Plex+Sans. For better compatibility, the template files use the Arial font.
-The font used in the ready-to-go PDF for the non-Latin languages version is MiSans, and you can access to this free font via: https://hyperos.mi.com/font/en/.
+The font used in the ready-to-go PDF for the English version is IBM Plex Sans, and you can access to this open-source font via: https://fonts.google.com/specimen/IBM+Plex+Sans. 
+And for the non-Latin languages version is MiSans, and you can access to this free font via: https://hyperos.mi.com/font/en/.
+For better compatibility, the template files use the Arial font.
 
 To know more about the icons/emoji used in this tool, please check this: https://github.com/googlefonts/noto-emoji.
 
