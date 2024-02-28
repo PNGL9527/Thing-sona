@@ -39,11 +39,15 @@ Starting from Human-ADAS Feature Relation as a car is so complex.
 ## How to use this Tool
 (Here is the introduction on this section)
 
-### About the File Ready-to-use
-We provided a PDF ready-to-use version, and you can print it with thick A4 paper to tangibly use this tool. The Color format is RGB/8, and the Color configuration document is SRGB IEC61966-2.1. You may also access to the Miro version for online usage of the deck (to be created).
+### About the File ready-to-go
+We provided a PDF ready-to-go version, and you can print it with thick A4 paper to tangibly use this tool. The Color format is RGB/8, and the Color configuration document is SRGB IEC61966-2.1. You may also access to the Miro version for online usage of the deck (to be created).
+
+You may search Thing-sona_ready-to-go in the release page to get the newest version of the file.
 
 ### About the Template File
 The provided template files include different formats (PDF, Figama, Affinity Designer, Sketch).
+
+You may search Thing-sona_template source files in the release page to get the newest version of the file.
 
 You may also access to the Miro version for online usage of the deck (to be created).
 
