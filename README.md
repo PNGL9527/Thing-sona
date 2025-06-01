@@ -14,7 +14,7 @@ The Human-Vehicle Relation is the focus of future design, rather than just the i
 Some post-human theories/philosophies can offer theoretical support (like postphenomenology, ANT) on the relation between human and artifact, but not explain the logic of UX in this new era
 
 ### The Need of Depicting Human-Vehicle Relations
-Driving Contexts are complex, human drivers have different backgrounds, and design is a nomadic practice. We can not standardize some particular humanvehicle relations, but embrace the multiplicity and ambiguity.
+Driving Contexts are complex, human drivers have different backgrounds, and design is a nomadic practice. We can not standardize some particular human-vehicle relations, but embrace the multiplicity and ambiguity.
 
 Philosophical theories like Post-Phenomenology and Actor-Network Theory do not answer the question: how UX emerges when considering the artificial agency of technologies.
 
