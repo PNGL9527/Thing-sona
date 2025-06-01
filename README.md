@@ -6,6 +6,9 @@ This is a repository for the Thing-sona, a design tool for better designing for 
 You can find the paper discussing on this tool here: (to be published).
 
 ## Introducing Thing-sona
+
+![Thing-sona](https://github.com/user-attachments/assets/ed981d12-0d5b-4199-a524-f213e3d969fb)
+
 ### Background of this idea
 More-Than-Human Design and Entanglement wave of HCI: The artificial agency of cars has been increasingly recognized
 
@@ -19,9 +22,6 @@ Driving Contexts are complex, human drivers have different backgrounds, and desi
 Philosophical theories like Post-Phenomenology and Actor-Network Theory do not answer the question: how UX emerges when considering the artificial agency of technologies.
 
 As such, we need some way to help designers and drivers to represent their imagination/feelings of the human-vehicle relation.
-
-![Thing-sona](https://github.com/user-attachments/assets/ed981d12-0d5b-4199-a524-f213e3d969fb)
-
 
 
 ### From Persona to Thing-sona
@@ -43,7 +43,8 @@ Starting from Human-ADAS Feature Relation as a car is so complex.
 ## How to use this Tool
 (Here is the introduction on this section)
 
-![Uploading ParticipantThingSona.png…]()
+![ParticipantThingSona](https://github.com/user-attachments/assets/81be3e4d-18f8-4ae0-8cdc-28ed91eb9ed7)
+
 
 
 ### About the File ready-to-go
