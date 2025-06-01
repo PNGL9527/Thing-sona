@@ -27,11 +27,11 @@ As such, we need some way to help designers and drivers to represent their imagi
 ### From Persona to Thing-sona
 Borrow the idea of Persona to understand the relation between human and artifact (Without human, the persona-izing of just technologies is meaningless).
 
-Like Persona, it can be used from user research to idea generation.
+Like Persona, it can be used from **user research** to **idea generation**.
 
-Use it to depict users’ feeling of specific human-vehicle relation in a specific driving context with their personal backgrounds.
+User researchers and designers can use it to depict users’ feeling of specific human-vehicle relation in a specific driving context with their personal backgrounds.
 
-Use it to propose the idea of some features with consideration of humanvehicle relations.
+They can also use it to propose the idea of some features with consideration of human-vehicle relations.
 
 ### The idea of Thing-sona
 Techsona is used (See Bødker and Klokmose, 2013). So, to differentiate, I use Thing-sona.
