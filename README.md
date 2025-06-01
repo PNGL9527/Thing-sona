@@ -3,7 +3,7 @@ I am Peng Lu, currently a PhD in Design student at Politecnico di Milano, Italy.
 
 This is a repository for the Thing-sona, a design tool for better designing for user experience emerging from the human-technology relations in the era in which humans need to acknowledge and collaborate with non-human technologies.
 
-You can find the paper discussing on this tool here: (to be published)
+You can find the paper discussing on this tool here: (to be published).
 
 ## Introducing Thing-sona
 ### Background of this idea
@@ -20,14 +20,18 @@ Philosophical theories like Post-Phenomenology and Actor-Network Theory do not a
 
 As such, we need some way to help designers and drivers to represent their imagination/feelings of the human-vehicle relation.
 
+![Thing-sona](https://github.com/user-attachments/assets/ed981d12-0d5b-4199-a524-f213e3d969fb)
+
+
+
 ### From Persona to Thing-sona
-Borrow the idea of Persona to understand the relation between human and artifact (Without human, the persona-izing of just technologies is meaningless)
+Borrow the idea of Persona to understand the relation between human and artifact (Without human, the persona-izing of just technologies is meaningless).
 
-Like Persona, it can be used from user research to idea generation
+Like Persona, it can be used from user research to idea generation.
 
-Use it to depict users’ feeling of specific human-vehicle relation in a specific driving context with their personal backgrounds
+Use it to depict users’ feeling of specific human-vehicle relation in a specific driving context with their personal backgrounds.
 
-Use it to propose the idea of some features with consideration of humanvehicle relations
+Use it to propose the idea of some features with consideration of humanvehicle relations.
 
 ### The idea of Thing-sona
 Techsona is used (See Bødker and Klokmose, 2013). So, to differentiate, I use Thing-sona.
@@ -38,6 +42,9 @@ Starting from Human-ADAS Feature Relation as a car is so complex.
 
 ## How to use this Tool
 (Here is the introduction on this section)
+
+![Uploading ParticipantThingSona.png…]()
+
 
 ### About the File ready-to-go
 We provided a PDF ready-to-go version, and you can print it with thick A4 paper to tangibly use this tool. The Color format is RGB/8, and the Color configuration document is SRGB IEC61966-2.1. You may also access to the Miro version for online usage of the deck (to be created).
