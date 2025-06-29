@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Peng Lu, currently a PhD in Design student at Politecnico di Milano, Italy.
+I am Peng Lu, recently graduated with a PhD in Design degree at Politecnico di Milano, Italy.
 
 This is a repository for the Thing-sona, a design tool for better designing for user experience emerging from the human-technology relations in the era in which humans need to acknowledge and collaborate with non-human technologies.
 
